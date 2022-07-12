@@ -1,0 +1,1 @@
+Код для статьи https://habr.com/ru/post/673624/
